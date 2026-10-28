@@ -4,3 +4,7 @@ def add(a: float, b: float) -> float:
 
 def sub(a: float, b: float) -> float:
     return a - b
+
+
+def div(a: float, b: float) -> float:
+    return a / b

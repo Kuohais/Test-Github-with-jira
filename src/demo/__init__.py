@@ -1,3 +1,3 @@
-from demo.calc import add, sub
+from demo.calc import add, div, sub
 
-__all__ = ["add", "sub"]
+__all__ = ["add", "div", "sub"]
