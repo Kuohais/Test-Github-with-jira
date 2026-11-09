@@ -1,0 +1,3 @@
+product_model = MR-V100  # oss-allow
+customer_project = customer-demo-alpha  # oss-allow
+jira_allowed = PATT-90002  # oss-allow
