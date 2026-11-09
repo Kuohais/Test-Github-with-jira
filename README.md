@@ -6,5 +6,3 @@ A tiny calculator library used to pilot internal-to-public repository sync.
 pip install pytest
 pytest
 ```
-
-Direct push check.
